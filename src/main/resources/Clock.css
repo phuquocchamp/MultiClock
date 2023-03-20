@@ -1,0 +1,32 @@
+.container{
+    -fx-background-color: #336666;
+}
+.title{
+    -fx-font-family: Mexon;
+    -fx-font-size: 3em;
+    -fx-fill: #CC9933;
+ }
+
+.clock_box{
+    -fx-background-radius: 15;
+    -fx-background-color: #CC9933;
+}
+
+.clock_items{
+    -fx-font-family: "Cascadia Code";
+    -fx-font-size: 8em;
+    -fx-alignment: center;
+}
+
+.check-box{
+    -fx-background-color: #CC9933;
+    -fx-text-fill: #000;
+}
+
+.button{
+    -fx-background-color: #CC9933;
+}
+
+.button:hover{
+    -fx-cursor: hand;
+}
